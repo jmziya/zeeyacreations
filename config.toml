@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Zeeya Creations"
 theme = "phugo"
 googleAnalytics = "UA-XXXXXXX-Y"
+publishDir = "public"
 
 [params]
 
@@ -24,8 +25,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
     # Footer panel
     
     [params.footer.paragraph]
-    headline = "Magna feugiat sed adipiscing"
-    text = "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum."
+    headline = "Zeeya Creations"
+    text = "Branding, Media, etc"
     
     [params.footer.social]
     headline = "Follow me"
@@ -75,7 +76,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     # - you're done. Happy mailing!
     
     [params.footer.contact]
-    realEmail = "example@examle.org"
+    realEmail = "zeeyacreations@gmail.com"
     headline = "Get in touch"
     buttonText = "Send"
     resetText = "Reset"
@@ -95,4 +96,4 @@ googleAnalytics = "UA-XXXXXXX-Y"
     
     # Copyright
     [params.footer.copyright]
-    name = "Your name"
+    name = "Zeeya Creations by jacobmziya.com"
