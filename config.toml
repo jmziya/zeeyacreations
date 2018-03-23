@@ -8,7 +8,7 @@ publishDir = "public"
 [params]
 
     # Meta
-    description = "Phugo - Photo Gallery on Hugo"
+    description = "A media and branding company"
     author = "aerohub"
     keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
     
